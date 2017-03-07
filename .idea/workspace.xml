@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd10dccb-3576-48ac-b958-2b2d4e365537" name="Default" comment="任务二：零基础HTML及CSS编码（一）">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小薇学院/任务二：零基础HTML及CSS编码（一）/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="bd10dccb-3576-48ac-b958-2b2d4e365537" name="Default" comment="任务二：零基础HTML及CSS编码（一）" />
     <list id="6987e5cb-003c-4ea4-8180-8d91893f7a90" name="Rejected commit: Default" comment="任务二：零基础HTML及CSS编码（一）" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -266,7 +263,7 @@
       <workItem from="1488704407741" duration="8039000" />
       <workItem from="1488876324376" duration="96000" />
       <workItem from="1488876434106" duration="9517000" />
-      <workItem from="1488889227048" duration="7513000" />
+      <workItem from="1488889227048" duration="7655000" />
     </task>
     <task id="LOCAL-00001" summary="Rejected commit: Default">
       <created>1488711260988</created>
@@ -293,10 +290,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25165000" />
+    <option name="totallyTimeSpent" value="25307000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1932" height="1087" extended-state="0" />
+    <frame x="-8" y="0" width="1932" height="1087" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13087606" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
