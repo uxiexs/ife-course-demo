@@ -1,0 +1,95 @@
+/**
+ *@author: uxeix
+ *@github: https://github.com/uxeixs/ife-course-demo
+ */
+body, .container-left, .container-center, .container-right {
+    background-color: #ffffff;
+}
+
+.container {
+    background-color: #eeeeee;
+    position: relative;
+    margin: 20px;
+    padding: 20px;;
+    border: 1px solid #333333;
+    width: auto;
+    height: auto;
+}
+
+.container:before {
+    display: table;
+    content: " ";
+}
+
+.container:after {
+    display: table;
+    content: " ";
+    clear: both;
+}
+
+.container-left, .container-center, .container-right {
+    border: 1px solid #999;
+}
+
+.container-left {
+    float: left;
+    position: relative;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.container-center {
+    position: absolute;
+    left: 240px;
+    right: 160px;
+    width: auto;
+    height: 450px;
+    padding: 20px;
+
+}
+
+.container-right {
+    position: relative;
+    float: right;
+    width: 120px;
+    height: 500px;
+}
+
+.team-logo {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+    overflow: hidden;
+    /*background-color: #00a0e9;*/
+}
+
+.team-logo img {
+    width: 80px;
+    /*vertical-align: middle;*/
+    display: inline-block;
+    float: left;
+}
+#team-name{
+    position: relative;
+    float: right;
+    margin-right: 10px;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 18px;
+    display: inline-block;
+    text-align: center;
+    letter-spacing:1.5px;
+    /*background-color: #3355D0;*/
+}
+.team-menber{
+    position: relative;
+    left: 20px;
+    margin-top: 31.25px;
+}
+.team-menber img{
+    width: 80px;
+    height: 80px;
+}
