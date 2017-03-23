@@ -268,6 +268,16 @@ footer p {
     width: auto;
     position: relative;
     margin-left: 5%;
+    margin-top: 5%;
     display: inline-block;
     text-align: center;
+    border: 1px solid #aaaaaa;
+}
+.pic-item img{
+    height: 100px;
+    width: 150px;
+}
+.pic-item p{
+    display: block;
+    margin-top: 5px;
 }
